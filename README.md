@@ -1,6 +1,6 @@
 # 📊 CDR Mobility & Traffic Analytics — Milan
 
-![Milan Skyline](https://upload.wikimedia.org/wikipedia/commons/1/12/Milan_skyline_skyscrapers_of_Porta_Nuova_business_district.jpg)  
+![Milan Skyline](https://upload.wikimedia.org/wikipedia/commons/9/9d/Milano_skyline.jpg)  
 *Clustering Milan’s digital heartbeat from mobile phone activity.*
 
 ---
