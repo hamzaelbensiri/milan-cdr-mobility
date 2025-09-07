@@ -1,0 +1,31 @@
+# Python / Jupyter junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+ENV/
+
+# Raw / heavy data
+data/
+*.parquet
+*.csv
+*.geojson
+*.pbix
+*.zip
+
+# Ignore artifacts except plots
+artifacts/*
+!artifacts/figures/
+!artifacts/figures/*.png
+!artifacts/figures/*.jpg
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
